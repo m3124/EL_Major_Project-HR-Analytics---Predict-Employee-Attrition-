@@ -43,10 +43,10 @@ The dataset contains employee information including Age, employee id, department
 
 ## Files Included
 - `HR_Employee_Attrition.csv`- Dataset for Jupyter Notebook
-- `HR_Employee_Attrition.ipynb` - Complete Jupyter Notebook.
+- `HR_Emp_attrition.ipynb` - Complete Jupyter Notebook.
 - `Clean_HR_Attrition_PowerBI.csv` - Cleaned dataset for Power BI.
 - `HR_Employee_Attrition_PowerBI.pbix` - Power BI Dashboard.
-- `HR_Employee_Attrition_Report.pdf` - Project Report.
+- `HR_Analytics_Predict Employee_Attrition_Report.pdf` - Project Report.
 
 
 
